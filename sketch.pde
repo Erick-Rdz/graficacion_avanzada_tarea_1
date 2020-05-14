@@ -7,7 +7,7 @@ import java.util.*;
 Circulo tmp;
 List <Circulo> lista;
 //var random
-int n=-1; int k=20;
+int n=-1; int k=35;
 float x,y;
 //otras variables
 String q="";
