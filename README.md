@@ -1,0 +1,5 @@
+# graficacion_avanzada_tarea_1
+
+
+ALUMNO:
+ERICK ALBERTO RODRIGUEZ RODRIGUEZ GRUPO 2
